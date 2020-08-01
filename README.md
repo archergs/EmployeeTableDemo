@@ -1,6 +1,6 @@
-# NativeScript-Vue Application
+# Employee Table Demo
 
-> A native application built with NativeScript-Vue
+> A demo of the Employee tutorial using Vue.js and NativeScript
 
 ## Usage
 
